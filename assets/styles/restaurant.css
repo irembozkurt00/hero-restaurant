@@ -1,0 +1,37 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    color: #FFFFFF;
+}
+.background {
+width: 1662px;
+height: 1024px;
+background-image: url(../img/hero-restaurant.png);
+
+}
+
+.paragraf {
+width: 517px;
+height: 598px;
+padding-left: 165px;
+padding-top: 223px;
+align-items: center;
+gap: 10px;
+}
+
+
+.button{
+    width: 294px;
+    height: 98px;
+    border-radius: 100px;
+    background-color: transparent;
+    border-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    color: #FFFFFF;
+    font-family:"Montserrat", sans-serif; 
+    font-size: 40px;
+    gap: 21px;
+    margin-bottom: 34px;
+}
